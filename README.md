@@ -43,7 +43,7 @@ Let's get started!
 
 ## Demo Link
 **Click below to view demo**
-[![image](next_word_suggestion_preview.jpg)](https://drive.google.com/file/d/1IDTnIrM5rkk_cXszrqRRzPFLUbB8C7e_/view?usp=sharing)
+[![image](next_word_suggestion_preview.jpg)](https://1drv.ms/v/s!AuQ0zVSghQNegtFDOQq2vwzjZZGJig?e=i4cgee)
 
 ## Team
 - Shubham - shubhamwankar
