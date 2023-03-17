@@ -35,6 +35,25 @@ Let's get started!
 
 ## Use Case Development can be found [here](https://docs.google.com/document/d/1V070_FZStj2Sp_UYRbYDVAHzKyz9P5wBXHR2JNOzw6M/edit?usp=sharing).
 
+## Instructions
+In order to use this model follow the steps below:
+1. Clone the repository using the below command and go into the directory.
+```
+git clone https://github.com/ybezginova2016/ZAF202305_NLP_NextWordSuggestion
+cd "ZAF202305_NLP_NextWordSuggestion/"
+```
+2. Change the branch using the below command:
+```
+git checkout shubham
+```
+3. Install the dependencies using the below command:
+```
+pip install -r requirements.txt
+```
+
+4. Run the "load_predict.py" file using Python.
+
+
 ## Data
 1. Empathetic_Dialogues - [Link](https://huggingface.co/datasets/empathetic_dialogues)
 
