@@ -19,7 +19,7 @@ def predict(sample=''):
     preds = mask_pipeline(sample)
     df = pd.DataFrame(preds)
     df['score'] = df['score'].apply(lambda x: round(x, 2))
-    print('Sample Text: {sample}')
+    print(f'Sample Text: {sample}')
     print('-'*50)
     print('Prediction')
     print('-'*50)
