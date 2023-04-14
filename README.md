@@ -37,7 +37,7 @@ git clone https://github.com/shubhamwankar/NLP_NextWordSuggestion
 pip install -r requirements.txt
 ```
 
-3. Run the "load_predict.py" file using Python.
+3. Run the "app.py" file using Python.
 
 ## Data
 1. Empathetic_Dialogues - [Link](https://huggingface.co/datasets/empathetic_dialogues)
